@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package 
+  xmlns="http://expath.org/ns/pkg" name="kirilloff/gabi_application/apps/g_app"
+  abbrev="g_app" version="1" spec="1.0">
+  <title>my amazing app for the Neh  symposium in pitt</title>
+  <dependency processor="http://exist-db.org" semver-min="5.3.0"/>
+</package>
